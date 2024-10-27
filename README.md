@@ -1,0 +1,1 @@
+This project is a versatile calculator designed to handle both basic arithmetic and essential scientific functions. With an intuitive interface, users can easily access constants (e, π), trigonometric functions (sin), and switch between degrees and radians. Ideal for quick, accurate calculations in a user-friendly format.
