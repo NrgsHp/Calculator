@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator.light" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/gray</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="backgroundColor">@drawable/gradient_background_light</item>
+        <item name="buttonTint">@drawable/rounded_btn_back_light</item>
+        <item name="android:windowBackground">@color/white</item>
+
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator.light" />
+</resources>
